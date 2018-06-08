@@ -1,0 +1,14 @@
+---
+# vars file for lamp_compose
+
+# mysql:
+#   database: ***
+#   user: ***
+#   password: ***
+#   port: ***
+
+# apache:
+#   port: ***
+
+# phpmyadmin:
+#   port: ***
